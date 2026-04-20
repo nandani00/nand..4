@@ -1,0 +1,95 @@
+body{
+    background-color: rgba(156, 134, 106, 0.57);
+}
+#mainbx{
+    border: 5px solid rgb(125, 56, 56);
+    padding: 20px;
+    margin: auto;
+    width: fit-content;
+   border-radius: 20px;
+    left: 10px;
+    background-color: rgb(169, 112, 123);
+    box-shadow: 2px 2px 10px;
+}
+#tit{
+   
+    color: rgba(49, 22, 107, 0.614);
+     text-align:center ;
+
+ }
+#box{
+    border: 3px solid rgb(106, 54, 62);
+    padding: 15px;
+    margin-top: 20px ;
+    border-radius: 20px;
+    left:250px ;   
+    background-color: rgb(186, 161, 128);
+    box-shadow: 2px 2px 10px;
+}
+h3{
+ 
+    top: 250px;
+    left: 250px;
+}
+#subj, #num{
+    background-color: rgba(236, 146, 164, 0.611);
+}
+
+/*#num{
+    background-color: rgba(236, 146, 164, 0.611);
+}*/
+#but{
+    background-color: rgba(127, 64, 59, 0.479);
+    cursor: pointer;
+    box-shadow: 2px 2px 10px;
+}
+#but:hover{
+    background-color: rgba(210, 121, 115, 0.479) ;
+    transition: all 0.3s ease;
+    
+}
+ select{
+    background-color: rgb(101, 139, 106);
+ }
+ select:hover{
+    background-color: rgb(88, 120, 94);
+ }
+ option{background-color: rgb(164, 119, 148);}
+ 
+
+
+
+/* 
+ body {
+    font-family: sans-serif;
+    background: #f8f8f8;
+    padding: 30px;
+  }
+  
+  #mainbx {
+    max-width: 500px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #ccc;
+  }
+  
+  #inputBox {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  input, select, button {
+    padding: 8px;
+    font-size: 1em;
+  }
+  
+  .entry {
+    padding: 6px;
+    margin: 5px 0;
+    background: #e1f5fe;
+    border-radius: 5px;
+  }
+   */
